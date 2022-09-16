@@ -11,5 +11,5 @@ management:
         include:
         - '*'  
 greeting-service:
-  greeting: "Ola-Prod"
+  greeting: "Ola-Prod-alterado"
   default-value: "Mundo"
